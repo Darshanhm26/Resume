@@ -1,0 +1,28 @@
+header{
+            height: 200px;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            background-color: rgb(235, 186, 8);
+            color: rgb(10, 9, 9);
+        }
+        img{
+           border: 1mm solid black;
+            border-radius: 30mm;
+        }
+        .con{
+            padding: 0;
+            list-style: none;
+            align-items: center;
+        }
+        .personal_deatails{
+            display: flex;
+            justify-content: center;
+        }
+        hr{
+            border: 0.5mm solid black;
+            color: orange;
+        }
+        .material-icons{
+            font-size: 15px;
+        }
